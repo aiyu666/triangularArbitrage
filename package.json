@@ -4,7 +4,8 @@
   "description": "practice triangular arbitrage",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "biance": "node ./app.js biance",
+    "bitopro": "node ./app.js bitopro"
   },
   "repository": {
     "type": "git",
