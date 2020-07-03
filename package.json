@@ -4,7 +4,7 @@
   "description": "practice triangular arbitrage",
   "main": "app.js",
   "scripts": {
-    "biance": "node ./app.js biance",
+    "biance": "node ./app.js binance",
     "bitopro": "node ./app.js bitopro"
   },
   "repository": {
